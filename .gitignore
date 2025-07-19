@@ -4,8 +4,9 @@
 # 不忽略 .gitignore 文件本身
 !.gitignore
 
+!.github/
+!.github/**
 !public/
 !public/**
-!.github/
 !LICENSE
 !README.md
